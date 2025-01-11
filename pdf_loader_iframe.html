@@ -1,6 +1,47 @@
 <!doctype html>
 <!-- Source file for the sandboxed iframe used to render the PDF. -->
+<html>
 <head>
   <script src="/pdf.min.js"></script>
   <script src="/pdf_loader-compiled.js"></script>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+    }
+    #annotation-toolbar {
+      background: #f5f5f5;
+      border-bottom: 1px solid #ddd;
+      padding: 8px;
+      display: flex;
+      gap: 8px;
+      align-items: center;
+    }
+    #annotation-toolbar button {
+      padding: 4px 8px;
+      border: 1px solid #ccc;
+      background: white;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    #annotation-toolbar button:hover {
+      background: #e9e9e9;
+    }
+    #pdf-container {
+      flex: 1;
+      overflow: auto;
+    }
+  </style>
 </head>
+<body>
+  <div id="annotation-toolbar">
+    <button id="addTextNote" title="Add Text Note">📝 Add Note</button>
+    <button id="saveAnnotatedPdf" title="Save PDF with Annotations">💾 Save PDF</button>
+  </div>
+  <div id="pdf-container"></div>
+  <script src="/annotation.js"></script>
+</body>
+</html>
