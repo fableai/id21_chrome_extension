@@ -1,0 +1,29 @@
+{
+  "name": "id21_chrome_extension",
+  "version": "1.0.0",
+  "description": "Chrome extension for PDF viewing and processing capabilities",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fableai/id21_chrome_extension.git"
+  },
+  "keywords": [
+    "chrome-extension",
+    "pdf",
+    "viewer"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fableai/id21_chrome_extension/issues"
+  },
+  "homepage": "https://github.com/fableai/id21_chrome_extension#readme",
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.1.3",
+    "prettier": "^3.2.4"
+  }
+}
