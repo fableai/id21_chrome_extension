@@ -1,0 +1,445 @@
+{
+   "1010": {
+      "message": "新規作成"
+   },
+   "1109": {
+      "message": "この検索の結果はありません。"
+   },
+   "111": {
+      "message": "現在システムで処理を実行できません。しばらくしてからもう一度お試しください。"
+   },
+   "1301": {
+      "message": "設定"
+   },
+   "1343": {
+      "message": "マイライブラリに保存しました"
+   },
+   "1441": {
+      "message": "前へ"
+   },
+   "1442": {
+      "message": "次へ"
+   },
+   "1462": {
+      "message": "閉じる"
+   },
+   "1463": {
+      "message": "送信"
+   },
+   "1484": {
+      "message": "前のページ"
+   },
+   "1485": {
+      "message": "次のページ"
+   },
+   "1486": {
+      "message": "ズームアウト"
+   },
+   "1487": {
+      "message": "ズームイン"
+   },
+   "1488": {
+      "message": "高さに合わせる"
+   },
+   "1489": {
+      "message": "幅に合わせる"
+   },
+   "1490": {
+      "message": "回転"
+   },
+   "1491": {
+      "message": "ライブラリに保存"
+   },
+   "1492": {
+      "message": "ダウンロード"
+   },
+   "1493": {
+      "message": "印刷"
+   },
+   "1494": {
+      "message": "その他"
+   },
+   "1513": {
+      "message": "サムネイル"
+   },
+   "1514": {
+      "message": "すべて閉じる"
+   },
+   "1515": {
+      "message": "すべて開く"
+   },
+   "1542": {
+      "message": "Google Scholar"
+   },
+   "1617": {
+      "message": "Google を検索"
+   },
+   "1618": {
+      "message": "Google Scholar ライブラリ"
+   },
+   "1620": {
+      "message": "結果の取得中にエラーが発生しました。しばらくしてからもう一度お試しください。"
+   },
+   "1621": {
+      "message": "Google Scholar で検索しています..."
+   },
+   "1623": {
+      "message": "Scholar ライブラリに保存"
+   },
+   "1626": {
+      "message": "ドキュメントのプロパティ"
+   },
+   "1627": {
+      "message": "Chrome ビューアで開く"
+   },
+   "1628": {
+      "message": "さらに表示"
+   },
+   "1629": {
+      "message": "一部を表示"
+   },
+   "1630": {
+      "message": "ログイン"
+   },
+   "1631": {
+      "message": "$ANCHOR_BEGIN$マイライブラリ$ANCHOR_END$に保存しました",
+      "placeholders": {
+         "ANCHOR_BEGIN": {
+            "content": "$1"
+         },
+         "ANCHOR_END": {
+            "content": "$2"
+         }
+      }
+   },
+   "1632": {
+      "message": "マイライブラリに保存しています..."
+   },
+   "1633": {
+      "message": "Scholar では論文が見つかりませんでした。"
+   },
+   "1635": {
+      "message": "ファイル名"
+   },
+   "1636": {
+      "message": "ファイルサイズ"
+   },
+   "1637": {
+      "message": "タイトル"
+   },
+   "1638": {
+      "message": "著者"
+   },
+   "1639": {
+      "message": "主題"
+   },
+   "1640": {
+      "message": "キーワード"
+   },
+   "1641": {
+      "message": "作成"
+   },
+   "1642": {
+      "message": "更新日時"
+   },
+   "1643": {
+      "message": "アプリケーション"
+   },
+   "1644": {
+      "message": " PDF 変換アプリケーション"
+   },
+   "1645": {
+      "message": "PDF バージョン"
+   },
+   "1646": {
+      "message": "ページ数"
+   },
+   "1647": {
+      "message": "ページサイズ"
+   },
+   "1648": {
+      "message": "縦向き"
+   },
+   "1649": {
+      "message": "横向き"
+   },
+   "1650": {
+      "message": "スクエア"
+   },
+   "1651": {
+      "message": "各サイズに対応"
+   },
+   "1652": {
+      "message": "$PAGE_WIDTH$ × $PAGE_HEIGHT$ インチ（$PAGE_ORIENTATION$）",
+      "placeholders": {
+         "PAGE_HEIGHT": {
+            "content": "$1"
+         },
+         "PAGE_ORIENTATION": {
+            "content": "$2"
+         },
+         "PAGE_WIDTH": {
+            "content": "$3"
+         }
+      }
+   },
+   "1653": {
+      "message": "$PAGE_WIDTH$ × $PAGE_HEIGHT$ mm（$PAGE_ORIENTATION$）",
+      "placeholders": {
+         "PAGE_HEIGHT": {
+            "content": "$1"
+         },
+         "PAGE_ORIENTATION": {
+            "content": "$2"
+         },
+         "PAGE_WIDTH": {
+            "content": "$3"
+         }
+      }
+   },
+   "1654": {
+      "message": "高速ウェブビュー"
+   },
+   "1655": {
+      "message": "はい"
+   },
+   "1656": {
+      "message": "いいえ"
+   },
+   "1660": {
+      "message": "$PAGE_WIDTH$ × $PAGE_HEIGHT$ インチ（$PAGE_SIZE_NAME$、$PAGE_ORIENTATION$）",
+      "placeholders": {
+         "PAGE_HEIGHT": {
+            "content": "$1"
+         },
+         "PAGE_ORIENTATION": {
+            "content": "$2"
+         },
+         "PAGE_SIZE_NAME": {
+            "content": "$3"
+         },
+         "PAGE_WIDTH": {
+            "content": "$4"
+         }
+      }
+   },
+   "1661": {
+      "message": "$PAGE_WIDTH$ × $PAGE_HEIGHT$ mm（$PAGE_SIZE_NAME$、$PAGE_ORIENTATION$）",
+      "placeholders": {
+         "PAGE_HEIGHT": {
+            "content": "$1"
+         },
+         "PAGE_ORIENTATION": {
+            "content": "$2"
+         },
+         "PAGE_SIZE_NAME": {
+            "content": "$3"
+         },
+         "PAGE_WIDTH": {
+            "content": "$4"
+         }
+      }
+   },
+   "1662": {
+      "message": "Letter"
+   },
+   "1663": {
+      "message": "Legal"
+   },
+   "1664": {
+      "message": "タブロイド"
+   },
+   "1668": {
+      "message": "PDF ドキュメントを読み込めませんでした。"
+   },
+   "1669": {
+      "message": "再読み込み"
+   },
+   "1670": {
+      "message": "エラー"
+   },
+   "1673": {
+      "message": "パスワードを入力してください"
+   },
+   "1674": {
+      "message": "このドキュメントはパスワードで保護されています。パスワードを入力してください。"
+   },
+   "1675": {
+      "message": "PDF ドキュメントを印刷するには、ツールバーの [印刷] ボタンを使用してください。"
+   },
+   "1676": {
+      "message": "パスワードが正しくありません。"
+   },
+   "1677": {
+      "message": "フォームへの入力は、Scholar PDF Reader ではまだサポートされていません。"
+   },
+   "1678": {
+      "message": "Google Scholar PDF Reader"
+   },
+   "1698": {
+      "message": "概要"
+   },
+   "1702": {
+      "message": "Scholar Reader を有効にする"
+   },
+   "1703": {
+      "message": "Google Scholar Reader でローカルの PDF を読み込むには、設定でファイルの URL へのアクセスを有効にしてから再度読み込みます。"
+   },
+   "1704": {
+      "message": "設定を開く"
+   },
+   "1707": {
+      "message": "表示モード"
+   },
+   "1711": {
+      "message": "全画面表示"
+   },
+   "1712": {
+      "message": "ライトモード"
+   },
+   "1713": {
+      "message": "ダークモード"
+   },
+   "1714": {
+      "message": "夜間モード"
+   },
+   "1715": {
+      "message": "参考文献を見る"
+   },
+   "1716": {
+      "message": "Scholar ライブラリへの保存を有効にするには、PDF を全画面表示にします。"
+   },
+   "1717": {
+      "message": "開く"
+   },
+   "1718": {
+      "message": "後で"
+   },
+   "1723": {
+      "message": "印刷を有効にするには、Chrome ビューアで PDF を開きます。"
+   },
+   "1724": {
+      "message": "開く"
+   },
+   "1726": {
+      "message": "参考情報と概要の確認、図へのジャンプ、引用、保存などの機能で論文が劇的に読みやすくなります。"
+   },
+   "1732": {
+      "message": "デバイスモード"
+   },
+   "1734": {
+      "message": "問題を報告"
+   },
+   "1741": {
+      "message": "セクション"
+   },
+   "1742": {
+      "message": "AI による概要"
+   },
+   "1744": {
+      "message": "AI による概要の設定"
+   },
+   "1745": {
+      "message": "Google Scholar から AI による概要をリクエストする:"
+   },
+   "1746": {
+      "message": "$ICON$ をクリックした場合にのみ検索",
+      "placeholders": {
+         "ICON": {
+            "content": "$1"
+         }
+      }
+   },
+   "1748": {
+      "message": "任意の PDF を開いたときに自動的に検索"
+   },
+   "1749": {
+      "message": "AI による概要は一部の論文でのみ使用できます"
+   },
+   "1750": {
+      "message": "すべての PDF で AI による概要を有効にしますか？"
+   },
+   "1751": {
+      "message": "概要を表示するため、Reader が Scholar で PDF を検索します"
+   },
+   "1752": {
+      "message": "AI による概要について"
+   },
+   "1753": {
+      "message": "論文の各セクションの要点"
+   },
+   "1754": {
+      "message": "AI による概要は、ドキュメントの主要なセクションの要点を示します。"
+   },
+   "1755": {
+      "message": "概要をざっと確認したり、詳細に移動したりできます"
+   },
+   "1756": {
+      "message": "要点をざっと読んで概要を確認し、興味のある箇条書きをクリックして詳細に移動できます。"
+   },
+   "1757": {
+      "message": "AI による概要は、Scholar の一部の研究論文でのみ使用できます。概要はコンピュータ プログラムによって生成されるため、不完全または不正確な情報を含む場合があります。"
+   },
+   "1758": {
+      "message": "新規"
+   },
+   "1759": {
+      "message": "この PDF では AI による概要を使用できません。"
+   },
+   "1760": {
+      "message": "AI による概要は、この PDF の別のバージョンで生成されました。"
+   },
+   "1766": {
+      "message": "Chrome の設定"
+   },
+   "1768": {
+      "message": "ほとんどの学術サイトで PDF を開いたときに自動的に検索"
+   },
+   "535": {
+      "message": "Scholar を検索"
+   },
+   "551": {
+      "message": "論文を削除"
+   },
+   "59": {
+      "message": "引用"
+   },
+   "625": {
+      "message": "読み込んでいます..."
+   },
+   "626": {
+      "message": "$PAGE_NUMBER$ ページ",
+      "placeholders": {
+         "PAGE_NUMBER": {
+            "content": "$1"
+         }
+      }
+   },
+   "64": {
+      "message": "保存"
+   },
+   "644": {
+      "message": "完了"
+   },
+   "649": {
+      "message": "表示しない"
+   },
+   "732": {
+      "message": "マイ ライブラリ"
+   },
+   "920": {
+      "message": "検索"
+   },
+   "924": {
+      "message": "ラベルを付ける:"
+   },
+   "965": {
+      "message": "はい"
+   },
+   "966": {
+      "message": "いいえ"
+   },
+   "chrome_client_3269861059707096562": {
+      "message": "ファイルの URL へのアクセスを許可する"
+   }
+}

@@ -1,0 +1,445 @@
+{
+   "1010": {
+      "message": "Skapa ny"
+   },
+   "1109": {
+      "message": "Inga resultat för denna sökning."
+   },
+   "111": {
+      "message": "Systemet kan inte utföra åtgärden just nu. Försök igen senare."
+   },
+   "1301": {
+      "message": "Inställningar"
+   },
+   "1343": {
+      "message": "Har sparats i Mitt bibliotek"
+   },
+   "1441": {
+      "message": "Tidigare"
+   },
+   "1442": {
+      "message": "Nästa"
+   },
+   "1462": {
+      "message": "Stäng"
+   },
+   "1463": {
+      "message": "Skicka"
+   },
+   "1484": {
+      "message": "Föregående sida"
+   },
+   "1485": {
+      "message": "Nästa sida"
+   },
+   "1486": {
+      "message": "Zooma ut"
+   },
+   "1487": {
+      "message": "Zooma in"
+   },
+   "1488": {
+      "message": "Anpassa efter höjd"
+   },
+   "1489": {
+      "message": "Anpassa efter bredd"
+   },
+   "1490": {
+      "message": "Rotera"
+   },
+   "1491": {
+      "message": "Spara i mitt bibliotek"
+   },
+   "1492": {
+      "message": "Ladda ned"
+   },
+   "1493": {
+      "message": "Skriv ut"
+   },
+   "1494": {
+      "message": "Fler"
+   },
+   "1513": {
+      "message": "Miniatyrer"
+   },
+   "1514": {
+      "message": "Komprimera alla"
+   },
+   "1515": {
+      "message": "Utöka alla"
+   },
+   "1542": {
+      "message": "Google Scholar"
+   },
+   "1617": {
+      "message": "Sök på Google"
+   },
+   "1618": {
+      "message": "Google Scholar-bibliotek"
+   },
+   "1620": {
+      "message": "Ett fel uppstod när resultaten skulle hämtas. Försök igen senare."
+   },
+   "1621": {
+      "message": "Söker på Scholar …"
+   },
+   "1623": {
+      "message": "Spara i Scholar-biblioteket"
+   },
+   "1626": {
+      "message": "Dokumentegenskaper"
+   },
+   "1627": {
+      "message": "Öppna i Chrome-visaren"
+   },
+   "1628": {
+      "message": "Visa mer"
+   },
+   "1629": {
+      "message": "Visa mindre"
+   },
+   "1630": {
+      "message": "Logga in"
+   },
+   "1631": {
+      "message": "Har sparats i $ANCHOR_BEGIN$Mitt bibliotek$ANCHOR_END$",
+      "placeholders": {
+         "ANCHOR_BEGIN": {
+            "content": "$1"
+         },
+         "ANCHOR_END": {
+            "content": "$2"
+         }
+      }
+   },
+   "1632": {
+      "message": "Sparar i Mitt bibliotek …"
+   },
+   "1633": {
+      "message": "Artikeln hittades inte i Scholar."
+   },
+   "1635": {
+      "message": "Filnamn"
+   },
+   "1636": {
+      "message": "Filstorlek"
+   },
+   "1637": {
+      "message": "Titel"
+   },
+   "1638": {
+      "message": "Författare"
+   },
+   "1639": {
+      "message": "Ämne"
+   },
+   "1640": {
+      "message": "Sökord"
+   },
+   "1641": {
+      "message": "Skapad"
+   },
+   "1642": {
+      "message": "Ändrades"
+   },
+   "1643": {
+      "message": "Program"
+   },
+   "1644": {
+      "message": " PDF-källa"
+   },
+   "1645": {
+      "message": "PDF-version"
+   },
+   "1646": {
+      "message": "Sidantal"
+   },
+   "1647": {
+      "message": "Sidstorlek"
+   },
+   "1648": {
+      "message": "stående"
+   },
+   "1649": {
+      "message": "liggande"
+   },
+   "1650": {
+      "message": "kvadrat"
+   },
+   "1651": {
+      "message": "Varierar"
+   },
+   "1652": {
+      "message": "$PAGE_WIDTH$ x $PAGE_HEIGHT$ tum ($PAGE_ORIENTATION$)",
+      "placeholders": {
+         "PAGE_HEIGHT": {
+            "content": "$1"
+         },
+         "PAGE_ORIENTATION": {
+            "content": "$2"
+         },
+         "PAGE_WIDTH": {
+            "content": "$3"
+         }
+      }
+   },
+   "1653": {
+      "message": "$PAGE_WIDTH$ x $PAGE_HEIGHT$ mm ($PAGE_ORIENTATION$)",
+      "placeholders": {
+         "PAGE_HEIGHT": {
+            "content": "$1"
+         },
+         "PAGE_ORIENTATION": {
+            "content": "$2"
+         },
+         "PAGE_WIDTH": {
+            "content": "$3"
+         }
+      }
+   },
+   "1654": {
+      "message": "Snabbvy på webben"
+   },
+   "1655": {
+      "message": "Ja"
+   },
+   "1656": {
+      "message": "Nej"
+   },
+   "1660": {
+      "message": "$PAGE_WIDTH$ x $PAGE_HEIGHT$ tum ($PAGE_SIZE_NAME$, $PAGE_ORIENTATION$)",
+      "placeholders": {
+         "PAGE_HEIGHT": {
+            "content": "$1"
+         },
+         "PAGE_ORIENTATION": {
+            "content": "$2"
+         },
+         "PAGE_SIZE_NAME": {
+            "content": "$3"
+         },
+         "PAGE_WIDTH": {
+            "content": "$4"
+         }
+      }
+   },
+   "1661": {
+      "message": "$PAGE_WIDTH$ x $PAGE_HEIGHT$ mm ($PAGE_SIZE_NAME$, $PAGE_ORIENTATION$)",
+      "placeholders": {
+         "PAGE_HEIGHT": {
+            "content": "$1"
+         },
+         "PAGE_ORIENTATION": {
+            "content": "$2"
+         },
+         "PAGE_SIZE_NAME": {
+            "content": "$3"
+         },
+         "PAGE_WIDTH": {
+            "content": "$4"
+         }
+      }
+   },
+   "1662": {
+      "message": "Letter"
+   },
+   "1663": {
+      "message": "Legal"
+   },
+   "1664": {
+      "message": "Tabloid"
+   },
+   "1668": {
+      "message": "Det gick inte att läsa in PDF-dokumentet."
+   },
+   "1669": {
+      "message": "Läs in igen"
+   },
+   "1670": {
+      "message": "Fel"
+   },
+   "1673": {
+      "message": "Lösenord krävs"
+   },
+   "1674": {
+      "message": "Dokumentet är lösenordsskyddat. Ange ett lösenord."
+   },
+   "1675": {
+      "message": "Använd utskriftsknappen i verktygsfältet om du vill skriva ut ett PDF-dokument."
+   },
+   "1676": {
+      "message": "Fel lösenord."
+   },
+   "1677": {
+      "message": "Det går inte att fylla i formulär i Google Scholars PDF-läsare ännu."
+   },
+   "1678": {
+      "message": "Google Scholar Reader för PDF-filer"
+   },
+   "1698": {
+      "message": "Disposition"
+   },
+   "1702": {
+      "message": "Aktivera Scholar Reader"
+   },
+   "1703": {
+      "message": "Om du vill läsa lokala PDF-filer med Google Scholar Reader behöver du aktivera åtkomst till filwebbadresser i inställningarna och sedan läsa in PDF-filen igen."
+   },
+   "1704": {
+      "message": "Öppna inställningarna"
+   },
+   "1707": {
+      "message": "Visningsläge"
+   },
+   "1711": {
+      "message": "Helskärm"
+   },
+   "1712": {
+      "message": "Ljust läge"
+   },
+   "1713": {
+      "message": "Mörkt läge"
+   },
+   "1714": {
+      "message": "Nattläge"
+   },
+   "1715": {
+      "message": "Visa i referenser"
+   },
+   "1716": {
+      "message": "Utöka PDF-filen till helskärm för att kunna spara i Scholar-biblioteket"
+   },
+   "1717": {
+      "message": "Utöka"
+   },
+   "1718": {
+      "message": "Inte nu"
+   },
+   "1723": {
+      "message": "Öppna PDF-filen i Chrome-visaren om du vill aktivera utskrift."
+   },
+   "1724": {
+      "message": "Öppna"
+   },
+   "1726": {
+      "message": "Läs artiklar på ett bättre sätt: följ referenser, skumma igenom disposition, hoppa till figurer, citera och spara."
+   },
+   "1732": {
+      "message": "Enhetsläge"
+   },
+   "1734": {
+      "message": "Rapportera ett problem"
+   },
+   "1741": {
+      "message": "Avsnitt"
+   },
+   "1742": {
+      "message": "AI-disposition"
+   },
+   "1744": {
+      "message": "Inställningar för AI Outline"
+   },
+   "1745": {
+      "message": "Begär en AI-struktur från Scholar:"
+   },
+   "1746": {
+      "message": "Endast när du klickar på $ICON$",
+      "placeholders": {
+         "ICON": {
+            "content": "$1"
+         }
+      }
+   },
+   "1748": {
+      "message": "Automatiskt när du öppnar alla PDF-filer"
+   },
+   "1749": {
+      "message": "AI-strukturer är endast tillgängliga för utvalda artiklar"
+   },
+   "1750": {
+      "message": "Vill du aktivera AI Outline för alla PDF-filer?"
+   },
+   "1751": {
+      "message": "För att visa en översikt försöker läsaren hitta PDF-filen i Scholar"
+   },
+   "1752": {
+      "message": "Om AI Outline"
+   },
+   "1753": {
+      "message": "De viktigaste punkterna i artikelavsnitt"
+   },
+   "1754": {
+      "message": "AI-strukturer presenterar de viktigaste punkterna i dokumentets avsnitt."
+   },
+   "1755": {
+      "message": "Ögna igenom strukturen eller hoppa till detaljerna"
+   },
+   "1756": {
+      "message": "Ögna igenom de viktigaste punkterna för att få en snabb överblick och klicka på intressanta punkter för att hoppa direkt till detaljerna."
+   },
+   "1757": {
+      "message": "AI-strukturer är endast tillgängliga för utvalda artiklar i Scholar. De genereras av ett datorprogram och kan innehålla ofullständig eller felaktig information."
+   },
+   "1758": {
+      "message": "Ny"
+   },
+   "1759": {
+      "message": "AI Outline är inte tillgängligt för den här PDF-filen."
+   },
+   "1760": {
+      "message": "AI-strukturen genererades med en annan version av denna PDF-fil."
+   },
+   "1766": {
+      "message": "Inställningar för Chrome"
+   },
+   "1768": {
+      "message": "Automatiskt när du öppnar en PDF på de flesta akademiska webbplatser"
+   },
+   "535": {
+      "message": "Sök på Scholar"
+   },
+   "551": {
+      "message": "Ta bort artikeln"
+   },
+   "59": {
+      "message": "Citera"
+   },
+   "625": {
+      "message": "Läser in ..."
+   },
+   "626": {
+      "message": "Sida $PAGE_NUMBER$",
+      "placeholders": {
+         "PAGE_NUMBER": {
+            "content": "$1"
+         }
+      }
+   },
+   "64": {
+      "message": "Spara"
+   },
+   "644": {
+      "message": "Klar"
+   },
+   "649": {
+      "message": "Stäng"
+   },
+   "732": {
+      "message": "Mitt bibliotek"
+   },
+   "920": {
+      "message": "Sök"
+   },
+   "924": {
+      "message": "Märk med:"
+   },
+   "965": {
+      "message": "Ja tack"
+   },
+   "966": {
+      "message": "Nej tack"
+   },
+   "chrome_client_3269861059707096562": {
+      "message": "Tillåt åtkomst till webbadresser i filen"
+   }
+}

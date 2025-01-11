@@ -1,0 +1,445 @@
+{
+   "1010": {
+      "message": "새로 만들기"
+   },
+   "1109": {
+      "message": "이 검색어에 대한 검색결과가 없습니다."
+   },
+   "111": {
+      "message": "현재 시스템이 작동되지 않습니다. 나중에 다시 시도해 주세요."
+   },
+   "1301": {
+      "message": "설정"
+   },
+   "1343": {
+      "message": "라이브러리에 저장됨"
+   },
+   "1441": {
+      "message": "이전"
+   },
+   "1442": {
+      "message": "다음"
+   },
+   "1462": {
+      "message": "닫기"
+   },
+   "1463": {
+      "message": "제출"
+   },
+   "1484": {
+      "message": "이전 페이지"
+   },
+   "1485": {
+      "message": "다음 페이지"
+   },
+   "1486": {
+      "message": "축소"
+   },
+   "1487": {
+      "message": "확대"
+   },
+   "1488": {
+      "message": "높이에 맞춤"
+   },
+   "1489": {
+      "message": "너비에 맞춤"
+   },
+   "1490": {
+      "message": "회전하기"
+   },
+   "1491": {
+      "message": "내 라이브러리에 저장"
+   },
+   "1492": {
+      "message": "다운로드"
+   },
+   "1493": {
+      "message": "인쇄"
+   },
+   "1494": {
+      "message": "더보기"
+   },
+   "1513": {
+      "message": "썸네일"
+   },
+   "1514": {
+      "message": "모두 접기"
+   },
+   "1515": {
+      "message": "모두 펼치기"
+   },
+   "1542": {
+      "message": "Google 학술 검색"
+   },
+   "1617": {
+      "message": "Google 검색"
+   },
+   "1618": {
+      "message": "Google 학술검색 라이브러리"
+   },
+   "1620": {
+      "message": "결과를 가져오는 중에 오류가 발생했습니다. 나중에 다시 시도해 보세요."
+   },
+   "1621": {
+      "message": "학술검색에서 검색 중..."
+   },
+   "1623": {
+      "message": "학술검색 라이브러리에 저장"
+   },
+   "1626": {
+      "message": "문서 속성"
+   },
+   "1627": {
+      "message": "Chrome 뷰어에서 열기"
+   },
+   "1628": {
+      "message": "자세히 보기"
+   },
+   "1629": {
+      "message": "간략히 보기"
+   },
+   "1630": {
+      "message": "로그인"
+   },
+   "1631": {
+      "message": "$ANCHOR_BEGIN$내 라이브러리$ANCHOR_END$에 저장됨",
+      "placeholders": {
+         "ANCHOR_BEGIN": {
+            "content": "$1"
+         },
+         "ANCHOR_END": {
+            "content": "$2"
+         }
+      }
+   },
+   "1632": {
+      "message": "내 라이브러리에 저장 중..."
+   },
+   "1633": {
+      "message": "학술검색에서 자료를 찾을 수 없습니다."
+   },
+   "1635": {
+      "message": "파일 이름:"
+   },
+   "1636": {
+      "message": "파일 크기:"
+   },
+   "1637": {
+      "message": "직책:"
+   },
+   "1638": {
+      "message": "저자"
+   },
+   "1639": {
+      "message": "제목:"
+   },
+   "1640": {
+      "message": "키워드:"
+   },
+   "1641": {
+      "message": "생성됨:"
+   },
+   "1642": {
+      "message": "수정:"
+   },
+   "1643": {
+      "message": "애플리케이션:"
+   },
+   "1644": {
+      "message": " PDF 변환 프로그램:"
+   },
+   "1645": {
+      "message": "PDF 버전:"
+   },
+   "1646": {
+      "message": "페이지 수:"
+   },
+   "1647": {
+      "message": "페이지 크기:"
+   },
+   "1648": {
+      "message": "세로 모드"
+   },
+   "1649": {
+      "message": "가로 모드"
+   },
+   "1650": {
+      "message": "정사각형"
+   },
+   "1651": {
+      "message": "다양함"
+   },
+   "1652": {
+      "message": "$PAGE_WIDTH$×$PAGE_HEIGHT$인치($PAGE_ORIENTATION$)",
+      "placeholders": {
+         "PAGE_HEIGHT": {
+            "content": "$1"
+         },
+         "PAGE_ORIENTATION": {
+            "content": "$2"
+         },
+         "PAGE_WIDTH": {
+            "content": "$3"
+         }
+      }
+   },
+   "1653": {
+      "message": "$PAGE_WIDTH$×$PAGE_HEIGHT$mm($PAGE_ORIENTATION$)",
+      "placeholders": {
+         "PAGE_HEIGHT": {
+            "content": "$1"
+         },
+         "PAGE_ORIENTATION": {
+            "content": "$2"
+         },
+         "PAGE_WIDTH": {
+            "content": "$3"
+         }
+      }
+   },
+   "1654": {
+      "message": "빠른 웹 보기:"
+   },
+   "1655": {
+      "message": "예"
+   },
+   "1656": {
+      "message": "아니요"
+   },
+   "1660": {
+      "message": "$PAGE_WIDTH$×$PAGE_HEIGHT$인치($PAGE_SIZE_NAME$, $PAGE_ORIENTATION$)",
+      "placeholders": {
+         "PAGE_HEIGHT": {
+            "content": "$1"
+         },
+         "PAGE_ORIENTATION": {
+            "content": "$2"
+         },
+         "PAGE_SIZE_NAME": {
+            "content": "$3"
+         },
+         "PAGE_WIDTH": {
+            "content": "$4"
+         }
+      }
+   },
+   "1661": {
+      "message": "$PAGE_WIDTH$×$PAGE_HEIGHT$mm($PAGE_SIZE_NAME$, $PAGE_ORIENTATION$)",
+      "placeholders": {
+         "PAGE_HEIGHT": {
+            "content": "$1"
+         },
+         "PAGE_ORIENTATION": {
+            "content": "$2"
+         },
+         "PAGE_SIZE_NAME": {
+            "content": "$3"
+         },
+         "PAGE_WIDTH": {
+            "content": "$4"
+         }
+      }
+   },
+   "1662": {
+      "message": "Letter"
+   },
+   "1663": {
+      "message": "Legal"
+   },
+   "1664": {
+      "message": "타블로이드"
+   },
+   "1668": {
+      "message": "PDF 문서를 로드할 수 없습니다."
+   },
+   "1669": {
+      "message": "새로고침"
+   },
+   "1670": {
+      "message": "오류"
+   },
+   "1673": {
+      "message": "비밀번호를 입력해야 합니다."
+   },
+   "1674": {
+      "message": "문서가 비밀번호로 보호되고 있습니다. 비밀번호를 입력하세요."
+   },
+   "1675": {
+      "message": "PDF 문서를 인쇄하려면 툴바에 있는 인쇄 버튼을 사용하세요."
+   },
+   "1676": {
+      "message": "비밀번호가 잘못되었습니다."
+   },
+   "1677": {
+      "message": "학술검색 PDF 리더에서는 아직 양식 작성이 지원되지 않습니다."
+   },
+   "1678": {
+      "message": "Google 학술검색 PDF 리더"
+   },
+   "1698": {
+      "message": "개요"
+   },
+   "1702": {
+      "message": "학술검색 리더 사용 설정"
+   },
+   "1703": {
+      "message": "Google 학술검색 리더로 로컬 PDF를 읽으려면 설정에서 파일 URL에 대한 액세스를 허용한 후 읽고 있는 PDF를 새로고침하세요."
+   },
+   "1704": {
+      "message": "설정 열기"
+   },
+   "1707": {
+      "message": "표시 모드"
+   },
+   "1711": {
+      "message": "전체화면"
+   },
+   "1712": {
+      "message": "밝은 모드"
+   },
+   "1713": {
+      "message": "어두운 모드"
+   },
+   "1714": {
+      "message": "야간 모드"
+   },
+   "1715": {
+      "message": "참조에서 보기"
+   },
+   "1716": {
+      "message": "학술검색 라이브러리에 저장 기능을 사용 설정하려면 PDF를 전체 화면으로 펼치세요."
+   },
+   "1717": {
+      "message": "펼치기"
+   },
+   "1718": {
+      "message": "나중에"
+   },
+   "1723": {
+      "message": "인쇄를 사용 설정하려면 Chrome 뷰어에서 PDF를 여세요."
+   },
+   "1724": {
+      "message": "열기"
+   },
+   "1726": {
+      "message": "자료 읽기 환경을 개선해 보세요. 참고 자료를 팔로우하고, 개요를 훑어보고, 그림으로 이동하고, 인용하고, 저장할 수 있습니다."
+   },
+   "1732": {
+      "message": "기기 모드"
+   },
+   "1734": {
+      "message": "문제 신고"
+   },
+   "1741": {
+      "message": "섹션"
+   },
+   "1742": {
+      "message": "AI 개요"
+   },
+   "1744": {
+      "message": "AI 개요 설정"
+   },
+   "1745": {
+      "message": "학술검색에서 AI 개요 요청:"
+   },
+   "1746": {
+      "message": "$ICON$ 아이콘을 클릭한 경우에만",
+      "placeholders": {
+         "ICON": {
+            "content": "$1"
+         }
+      }
+   },
+   "1748": {
+      "message": "PDF를 열 때 자동으로"
+   },
+   "1749": {
+      "message": "AI 개요는 선택한 자료에만 사용할 수 있습니다."
+   },
+   "1750": {
+      "message": "모든 PDF에 AI 개요를 사용 설정하시겠습니까?"
+   },
+   "1751": {
+      "message": "개요를 표시하기 위해 리더가 학술검색에서 PDF를 찾으려고 시도합니다."
+   },
+   "1752": {
+      "message": "AI 개요에 관한 정보"
+   },
+   "1753": {
+      "message": "자료 섹션의 핵심 사항"
+   },
+   "1754": {
+      "message": "AI 개요는 문서의 주요 섹션에 대한 주요 요점을 제공합니다."
+   },
+   "1755": {
+      "message": "개요를 훑어보거나 세부정보로 이동"
+   },
+   "1756": {
+      "message": "핵심 사항을 훑어 간략한 개요를 확인하고, 관심 있는 글머리 기호를 클릭하여 세부정보로 이동하세요."
+   },
+   "1757": {
+      "message": "AI 개요는 학술검색에서 선택한 연구 자료에만 사용할 수 있습니다. 컴퓨터 프로그램에서 생성되는 AI 개요에는 불완전하거나 부정확한 정보가 포함될 수 있습니다."
+   },
+   "1758": {
+      "message": "신규"
+   },
+   "1759": {
+      "message": "AI 개요를 이 PDF에 사용할 수 없습니다."
+   },
+   "1760": {
+      "message": "AI 개요는 이 PDF의 다른 버전을 사용하여 생성되었습니다."
+   },
+   "1766": {
+      "message": "Chrome 설정"
+   },
+   "1768": {
+      "message": "대부분의 학술 사이트에서 PDF를 열 때 자동으로 찾기"
+   },
+   "535": {
+      "message": "학술검색"
+   },
+   "551": {
+      "message": "학술자료 삭제"
+   },
+   "59": {
+      "message": "인용"
+   },
+   "625": {
+      "message": "로드 중..."
+   },
+   "626": {
+      "message": "$PAGE_NUMBER$페이지",
+      "placeholders": {
+         "PAGE_NUMBER": {
+            "content": "$1"
+         }
+      }
+   },
+   "64": {
+      "message": "저장"
+   },
+   "644": {
+      "message": "완료"
+   },
+   "649": {
+      "message": "닫기"
+   },
+   "732": {
+      "message": "내 서재"
+   },
+   "920": {
+      "message": "검색"
+   },
+   "924": {
+      "message": "다음으로 라벨 지정:"
+   },
+   "965": {
+      "message": "사용해보기"
+   },
+   "966": {
+      "message": "사용 안함"
+   },
+   "chrome_client_3269861059707096562": {
+      "message": "파일 URL에 대한 액세스 허용"
+   }
+}

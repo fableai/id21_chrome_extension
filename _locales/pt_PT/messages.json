@@ -1,0 +1,445 @@
+{
+   "1010": {
+      "message": "Criar nova"
+   },
+   "1109": {
+      "message": "Não foi encontrado nenhum resultado para esta pesquisa."
+   },
+   "111": {
+      "message": "O sistema não pode efectuar a operação agora. Tente mais tarde."
+   },
+   "1301": {
+      "message": "Definições"
+   },
+   "1343": {
+      "message": "Guardado em A minha biblioteca"
+   },
+   "1441": {
+      "message": "Anterior"
+   },
+   "1442": {
+      "message": "Seguinte"
+   },
+   "1462": {
+      "message": "Fechar"
+   },
+   "1463": {
+      "message": "Enviar"
+   },
+   "1484": {
+      "message": "Página anterior"
+   },
+   "1485": {
+      "message": "Página seguinte"
+   },
+   "1486": {
+      "message": "Diminuir zoom"
+   },
+   "1487": {
+      "message": "Aumentar zoom"
+   },
+   "1488": {
+      "message": "Ajustar à altura"
+   },
+   "1489": {
+      "message": "Ajustar à largura"
+   },
+   "1490": {
+      "message": "Rodar"
+   },
+   "1491": {
+      "message": "Guardar na minha biblioteca"
+   },
+   "1492": {
+      "message": "Transferir"
+   },
+   "1493": {
+      "message": "Imprimir"
+   },
+   "1494": {
+      "message": "Mais"
+   },
+   "1513": {
+      "message": "Miniaturas"
+   },
+   "1514": {
+      "message": "Reduzir todos"
+   },
+   "1515": {
+      "message": "Expandir tudo"
+   },
+   "1542": {
+      "message": "Google Académico"
+   },
+   "1617": {
+      "message": "Pesquise no Google"
+   },
+   "1618": {
+      "message": "Biblioteca do Google Académico"
+   },
+   "1620": {
+      "message": "Ocorreu um erro ao obter os resultados. Tente mais tarde."
+   },
+   "1621": {
+      "message": "A pesquisar no Google Académico…"
+   },
+   "1623": {
+      "message": "Guardar na Biblioteca do Google Académico"
+   },
+   "1626": {
+      "message": "Propriedades do documento"
+   },
+   "1627": {
+      "message": "Abrir no visualizador do Chrome"
+   },
+   "1628": {
+      "message": "Mostrar mais"
+   },
+   "1629": {
+      "message": "Mostrar menos"
+   },
+   "1630": {
+      "message": "Inicie sessão"
+   },
+   "1631": {
+      "message": "Guardado em $ANCHOR_BEGIN$A minha biblioteca$ANCHOR_END$",
+      "placeholders": {
+         "ANCHOR_BEGIN": {
+            "content": "$1"
+         },
+         "ANCHOR_END": {
+            "content": "$2"
+         }
+      }
+   },
+   "1632": {
+      "message": "A guardar em A minha biblioteca…"
+   },
+   "1633": {
+      "message": "Artigo não encontrado no Google Académico."
+   },
+   "1635": {
+      "message": "Nome do ficheiro"
+   },
+   "1636": {
+      "message": "Tamanho do ficheiro"
+   },
+   "1637": {
+      "message": "Título"
+   },
+   "1638": {
+      "message": "Autor"
+   },
+   "1639": {
+      "message": "Assunto"
+   },
+   "1640": {
+      "message": "Palavras-chave"
+   },
+   "1641": {
+      "message": "Criado"
+   },
+   "1642": {
+      "message": "Modificado"
+   },
+   "1643": {
+      "message": "Aplicação"
+   },
+   "1644": {
+      "message": " Criador do PDF"
+   },
+   "1645": {
+      "message": "Versão do PDF"
+   },
+   "1646": {
+      "message": "Total de páginas"
+   },
+   "1647": {
+      "message": "Tamanho da página"
+   },
+   "1648": {
+      "message": "vertical"
+   },
+   "1649": {
+      "message": "horizontal"
+   },
+   "1650": {
+      "message": "quadrada"
+   },
+   "1651": {
+      "message": "Varia"
+   },
+   "1652": {
+      "message": "$PAGE_WIDTH$ × $PAGE_HEIGHT$ pol. ($PAGE_ORIENTATION$)",
+      "placeholders": {
+         "PAGE_HEIGHT": {
+            "content": "$1"
+         },
+         "PAGE_ORIENTATION": {
+            "content": "$2"
+         },
+         "PAGE_WIDTH": {
+            "content": "$3"
+         }
+      }
+   },
+   "1653": {
+      "message": "$PAGE_WIDTH$ × $PAGE_HEIGHT$ mm ($PAGE_ORIENTATION$)",
+      "placeholders": {
+         "PAGE_HEIGHT": {
+            "content": "$1"
+         },
+         "PAGE_ORIENTATION": {
+            "content": "$2"
+         },
+         "PAGE_WIDTH": {
+            "content": "$3"
+         }
+      }
+   },
+   "1654": {
+      "message": "Visualização na Web rápida"
+   },
+   "1655": {
+      "message": "Sim"
+   },
+   "1656": {
+      "message": "Não"
+   },
+   "1660": {
+      "message": "$PAGE_WIDTH$ × $PAGE_HEIGHT$ pol. ($PAGE_SIZE_NAME$, $PAGE_ORIENTATION$)",
+      "placeholders": {
+         "PAGE_HEIGHT": {
+            "content": "$1"
+         },
+         "PAGE_ORIENTATION": {
+            "content": "$2"
+         },
+         "PAGE_SIZE_NAME": {
+            "content": "$3"
+         },
+         "PAGE_WIDTH": {
+            "content": "$4"
+         }
+      }
+   },
+   "1661": {
+      "message": "$PAGE_WIDTH$ × $PAGE_HEIGHT$ mm ($PAGE_SIZE_NAME$, $PAGE_ORIENTATION$)",
+      "placeholders": {
+         "PAGE_HEIGHT": {
+            "content": "$1"
+         },
+         "PAGE_ORIENTATION": {
+            "content": "$2"
+         },
+         "PAGE_SIZE_NAME": {
+            "content": "$3"
+         },
+         "PAGE_WIDTH": {
+            "content": "$4"
+         }
+      }
+   },
+   "1662": {
+      "message": "Carta"
+   },
+   "1663": {
+      "message": "Legal"
+   },
+   "1664": {
+      "message": "Tabloid"
+   },
+   "1668": {
+      "message": "Falha ao carregar o documento PDF."
+   },
+   "1669": {
+      "message": "Atualizar"
+   },
+   "1670": {
+      "message": "Erro"
+   },
+   "1673": {
+      "message": "Palavra-passe obrigatória"
+   },
+   "1674": {
+      "message": "Este documento está protegido por palavra-passe. Introduza uma palavra-passe."
+   },
+   "1675": {
+      "message": "Para imprimir o documento PDF, use o botão Imprimir na barra de ferramentas."
+   },
+   "1676": {
+      "message": "Palavra-passe incorreta."
+   },
+   "1677": {
+      "message": "O preenchimento de formulários ainda não é suportado no leitor de PDFs do Google Académico."
+   },
+   "1678": {
+      "message": "Leitor de PDFs do Google Académico"
+   },
+   "1698": {
+      "message": "Índice"
+   },
+   "1702": {
+      "message": "Ative o Leitor do Académico"
+   },
+   "1703": {
+      "message": "Para ler PDFs locais com o Leitor do Google Académico, ative o acesso aos URLs de ficheiros nas definições e, em seguida, recarregue o PDF."
+   },
+   "1704": {
+      "message": "Abrir definições"
+   },
+   "1707": {
+      "message": "Modo de apresentação"
+   },
+   "1711": {
+      "message": "Ecrã inteiro"
+   },
+   "1712": {
+      "message": "Modo claro"
+   },
+   "1713": {
+      "message": "Modo escuro"
+   },
+   "1714": {
+      "message": "Modo noturno"
+   },
+   "1715": {
+      "message": "Ver nas Referências"
+   },
+   "1716": {
+      "message": "Para permitir guardar o artigo na sua biblioteca do Google Académico, expanda o PDF para ecrã inteiro."
+   },
+   "1717": {
+      "message": "Expandir"
+   },
+   "1718": {
+      "message": "Agora não"
+   },
+   "1723": {
+      "message": "Para ativar a impressão, abra o PDF no visualizador do Chrome."
+   },
+   "1724": {
+      "message": "Abrir"
+   },
+   "1726": {
+      "message": "Otimize a leitura de ensaios: siga referências, navegue no índice, avance para figuras, cite e guarde."
+   },
+   "1732": {
+      "message": "Modo de dispositivo"
+   },
+   "1734": {
+      "message": "Comunicar um problema"
+   },
+   "1741": {
+      "message": "Secções"
+   },
+   "1742": {
+      "message": "Índice de IA"
+   },
+   "1744": {
+      "message": "Definições do índice de IA"
+   },
+   "1745": {
+      "message": "Pedir um índice de IA ao Google Académico:"
+   },
+   "1746": {
+      "message": "Apenas quando clica em $ICON$",
+      "placeholders": {
+         "ICON": {
+            "content": "$1"
+         }
+      }
+   },
+   "1748": {
+      "message": "Automaticamente quando abre um PDF"
+   },
+   "1749": {
+      "message": "Os índices de IA só estão disponíveis para artigos selecionados"
+   },
+   "1750": {
+      "message": "Ativar o Índice de IA para todos os PDFs?"
+   },
+   "1751": {
+      "message": "Para apresentar um índice, o Leitor vai tentar encontrar o PDF no Google Académico"
+   },
+   "1752": {
+      "message": "Acerca do Índice de IA"
+   },
+   "1753": {
+      "message": "Pontos principais das secções do artigo"
+   },
+   "1754": {
+      "message": "Os índices de IA apresentam os principais pontos das principais secções do documento."
+   },
+   "1755": {
+      "message": "Veja rapidamente o índice ou aceda aos detalhes"
+   },
+   "1756": {
+      "message": "Veja rapidamente os pontos principais para um resumo rápido e clique em marcas de lista interessantes para aceder aos detalhes."
+   },
+   "1757": {
+      "message": "Os índices de IA só estão disponíveis para determinados ensaios de investigação no Google Académico. São gerados por um programa de computador e podem conter informações incompletas ou imprecisas."
+   },
+   "1758": {
+      "message": "Novo"
+   },
+   "1759": {
+      "message": "O Índice de IA não está disponível para este PDF."
+   },
+   "1760": {
+      "message": "O índice de IA foi gerado com uma versão diferente deste PDF."
+   },
+   "1766": {
+      "message": "Definições do Chrome"
+   },
+   "1768": {
+      "message": "Automaticamente quando abre um PDF na maioria dos sites académicos"
+   },
+   "535": {
+      "message": "Pesquisar no Google Académico"
+   },
+   "551": {
+      "message": "Remover artigo"
+   },
+   "59": {
+      "message": "Citar"
+   },
+   "625": {
+      "message": "A carregar..."
+   },
+   "626": {
+      "message": "Página $PAGE_NUMBER$",
+      "placeholders": {
+         "PAGE_NUMBER": {
+            "content": "$1"
+         }
+      }
+   },
+   "64": {
+      "message": "Guardar"
+   },
+   "644": {
+      "message": "Concluído"
+   },
+   "649": {
+      "message": "Ignorar"
+   },
+   "732": {
+      "message": "A minha biblioteca"
+   },
+   "920": {
+      "message": "Pesquisar"
+   },
+   "924": {
+      "message": "Colocar a etiqueta:"
+   },
+   "965": {
+      "message": "Sim"
+   },
+   "966": {
+      "message": "Não, obrigado"
+   },
+   "chrome_client_3269861059707096562": {
+      "message": "Permitir acesso a URLs de ficheiro"
+   }
+}

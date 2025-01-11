@@ -1,0 +1,445 @@
+{
+   "1010": {
+      "message": "Tạo mới"
+   },
+   "1109": {
+      "message": "Không có kết quả nào cho tìm kiếm này."
+   },
+   "111": {
+      "message": "Hệ thống không thể thực hiện thao tác ngay bây giờ. Hãy thử lại sau."
+   },
+   "1301": {
+      "message": "Cài đặt"
+   },
+   "1343": {
+      "message": "Đã lưu vào Thư viện của tôi"
+   },
+   "1441": {
+      "message": "Trước"
+   },
+   "1442": {
+      "message": "Tiếp theo"
+   },
+   "1462": {
+      "message": "Đóng"
+   },
+   "1463": {
+      "message": "Gửi"
+   },
+   "1484": {
+      "message": "Trang trước"
+   },
+   "1485": {
+      "message": "Trang tiếp theo"
+   },
+   "1486": {
+      "message": "Thu nhỏ"
+   },
+   "1487": {
+      "message": "Phóng to"
+   },
+   "1488": {
+      "message": "Vừa với chiều cao"
+   },
+   "1489": {
+      "message": "Vừa với chiều rộng"
+   },
+   "1490": {
+      "message": "Xoay"
+   },
+   "1491": {
+      "message": "Lưu vào thư viện của tôi"
+   },
+   "1492": {
+      "message": "Tải xuống"
+   },
+   "1493": {
+      "message": "In"
+   },
+   "1494": {
+      "message": "Thêm"
+   },
+   "1513": {
+      "message": "Hình thu nhỏ"
+   },
+   "1514": {
+      "message": "Thu gọn tất cả"
+   },
+   "1515": {
+      "message": "Mở rộng tất cả"
+   },
+   "1542": {
+      "message": "Google Scholar"
+   },
+   "1617": {
+      "message": "Tìm kiếm trên Google"
+   },
+   "1618": {
+      "message": "Thư viện Google Scholar"
+   },
+   "1620": {
+      "message": "Đã xảy ra lỗi khi truy xuất kết quả. Vui lòng thử lại sau."
+   },
+   "1621": {
+      "message": "Đang tìm kiếm trên Scholar..."
+   },
+   "1623": {
+      "message": "Lưu vào Thư viện Scholar"
+   },
+   "1626": {
+      "message": "Thuộc tính của tài liệu"
+   },
+   "1627": {
+      "message": "Mở trong trình xem Chrome"
+   },
+   "1628": {
+      "message": "Hiện thêm"
+   },
+   "1629": {
+      "message": "Ẩn bớt"
+   },
+   "1630": {
+      "message": "Đăng nhập"
+   },
+   "1631": {
+      "message": "Đã lưu vào $ANCHOR_BEGIN$Thư viện của tôi$ANCHOR_END$",
+      "placeholders": {
+         "ANCHOR_BEGIN": {
+            "content": "$1"
+         },
+         "ANCHOR_END": {
+            "content": "$2"
+         }
+      }
+   },
+   "1632": {
+      "message": "Đang lưu vào Thư viện của tôi..."
+   },
+   "1633": {
+      "message": "Không tìm thấy bài viết trên Scholar."
+   },
+   "1635": {
+      "message": "Tên tệp"
+   },
+   "1636": {
+      "message": "Kích thước tệp"
+   },
+   "1637": {
+      "message": "Tiêu đề"
+   },
+   "1638": {
+      "message": "Tác giả"
+   },
+   "1639": {
+      "message": "Tiêu đề"
+   },
+   "1640": {
+      "message": "Từ khoá"
+   },
+   "1641": {
+      "message": "Ngày tạo"
+   },
+   "1642": {
+      "message": "Ngày sửa đổi"
+   },
+   "1643": {
+      "message": "Ứng dụng"
+   },
+   "1644": {
+      "message": " Trình tạo tệp PDF"
+   },
+   "1645": {
+      "message": "Phiên bản PDF"
+   },
+   "1646": {
+      "message": "Số trang"
+   },
+   "1647": {
+      "message": "Kích thước trang"
+   },
+   "1648": {
+      "message": "dọc"
+   },
+   "1649": {
+      "message": "ngang"
+   },
+   "1650": {
+      "message": "vuông"
+   },
+   "1651": {
+      "message": "Không cố định"
+   },
+   "1652": {
+      "message": "$PAGE_WIDTH$ × $PAGE_HEIGHT$ inch ($PAGE_ORIENTATION$)",
+      "placeholders": {
+         "PAGE_HEIGHT": {
+            "content": "$1"
+         },
+         "PAGE_ORIENTATION": {
+            "content": "$2"
+         },
+         "PAGE_WIDTH": {
+            "content": "$3"
+         }
+      }
+   },
+   "1653": {
+      "message": "$PAGE_WIDTH$ × $PAGE_HEIGHT$ mm ($PAGE_ORIENTATION$)",
+      "placeholders": {
+         "PAGE_HEIGHT": {
+            "content": "$1"
+         },
+         "PAGE_ORIENTATION": {
+            "content": "$2"
+         },
+         "PAGE_WIDTH": {
+            "content": "$3"
+         }
+      }
+   },
+   "1654": {
+      "message": "Chế độ xem nhanh trên web"
+   },
+   "1655": {
+      "message": "Có"
+   },
+   "1656": {
+      "message": "Không"
+   },
+   "1660": {
+      "message": "$PAGE_WIDTH$ × $PAGE_HEIGHT$ inch ($PAGE_SIZE_NAME$, $PAGE_ORIENTATION$)",
+      "placeholders": {
+         "PAGE_HEIGHT": {
+            "content": "$1"
+         },
+         "PAGE_ORIENTATION": {
+            "content": "$2"
+         },
+         "PAGE_SIZE_NAME": {
+            "content": "$3"
+         },
+         "PAGE_WIDTH": {
+            "content": "$4"
+         }
+      }
+   },
+   "1661": {
+      "message": "$PAGE_WIDTH$ × $PAGE_HEIGHT$ mm ($PAGE_SIZE_NAME$, $PAGE_ORIENTATION$)",
+      "placeholders": {
+         "PAGE_HEIGHT": {
+            "content": "$1"
+         },
+         "PAGE_ORIENTATION": {
+            "content": "$2"
+         },
+         "PAGE_SIZE_NAME": {
+            "content": "$3"
+         },
+         "PAGE_WIDTH": {
+            "content": "$4"
+         }
+      }
+   },
+   "1662": {
+      "message": "Letter"
+   },
+   "1663": {
+      "message": "Legal"
+   },
+   "1664": {
+      "message": "Tabloid"
+   },
+   "1668": {
+      "message": "Không tải được tài liệu PDF này."
+   },
+   "1669": {
+      "message": "Tải lại"
+   },
+   "1670": {
+      "message": "Lỗi"
+   },
+   "1673": {
+      "message": "Cần có mật khẩu"
+   },
+   "1674": {
+      "message": "Tài liệu này được bảo vệ bằng mật khẩu. Vui lòng nhập mật khẩu."
+   },
+   "1675": {
+      "message": "Để in tài liệu PDF, vui lòng sử dụng nút In trên thanh công cụ."
+   },
+   "1676": {
+      "message": "Mật khẩu sai."
+   },
+   "1677": {
+      "message": "Trình đọc PDF của Scholar chưa hỗ trợ tính năng điền biểu mẫu."
+   },
+   "1678": {
+      "message": "Trình đọc PDF của Google Scholar"
+   },
+   "1698": {
+      "message": "Mục lục"
+   },
+   "1702": {
+      "message": "Bật Scholar Reader"
+   },
+   "1703": {
+      "message": "Để đọc tệp PDF trên thiết bị bằng Google Scholar Reader, hãy cấp quyền truy cập vào URL tệp trong phần cài đặt, sau đó tải lại tệp PDF."
+   },
+   "1704": {
+      "message": "Mở phần cài đặt"
+   },
+   "1707": {
+      "message": "Chế độ hiển thị"
+   },
+   "1711": {
+      "message": "Toàn màn hình"
+   },
+   "1712": {
+      "message": "Chế độ sáng"
+   },
+   "1713": {
+      "message": "Chế độ tối"
+   },
+   "1714": {
+      "message": "Chế độ ban đêm"
+   },
+   "1715": {
+      "message": "Xem trong phần Tài liệu tham khảo"
+   },
+   "1716": {
+      "message": "Để bật tính năng lưu vào thư viện Scholar, hãy mở rộng tệp PDF ra toàn màn hình."
+   },
+   "1717": {
+      "message": "Mở rộng"
+   },
+   "1718": {
+      "message": "Để sau"
+   },
+   "1723": {
+      "message": "Để bật tính năng in, hãy mở tệp PDF trong trình xem trên Chrome."
+   },
+   "1724": {
+      "message": "Mở"
+   },
+   "1726": {
+      "message": "Tăng tốc độ đọc bài viết: theo dõi tài liệu tham khảo, đọc qua mục lục, chuyển tới hình minh hoạ, trích dẫn và lưu."
+   },
+   "1732": {
+      "message": "Chế độ của thết bị"
+   },
+   "1734": {
+      "message": "Báo cáo vấn đề"
+   },
+   "1741": {
+      "message": "Các mục"
+   },
+   "1742": {
+      "message": "Tóm tắt nội dung bằng AI"
+   },
+   "1744": {
+      "message": "Cài đặt tính năng Tóm tắt nội dung bằng AI"
+   },
+   "1745": {
+      "message": "Yêu cầu Scholar tóm tắt nội dung bằng AI:"
+   },
+   "1746": {
+      "message": "Chỉ khi bạn nhấp vào $ICON$",
+      "placeholders": {
+         "ICON": {
+            "content": "$1"
+         }
+      }
+   },
+   "1748": {
+      "message": "Tự động tìm khi bạn mở tệp PDF bất kỳ"
+   },
+   "1749": {
+      "message": "Tính năng Tóm tắt nội dung bằng AI chỉ dùng được cho một số bài viết"
+   },
+   "1750": {
+      "message": "Bật tính năng Tóm tắt nội dung bằng AI cho tất cả tệp PDF?"
+   },
+   "1751": {
+      "message": "Để hiện bản tóm tắt, Trình đọc sẽ cố gắng tìm tệp PDF trong Scholar"
+   },
+   "1752": {
+      "message": "Giới thiệu về tính năng Tóm tắt nội dung bằng AI"
+   },
+   "1753": {
+      "message": "Điểm chính của các phần trong bài viết"
+   },
+   "1754": {
+      "message": "Tính năng Tóm tắt nội dung bằng AI trình bày những điểm chính của các phần chính trong tài liệu."
+   },
+   "1755": {
+      "message": "Xem qua bản tóm tắt hoặc chuyển đến nội dung chi tiết"
+   },
+   "1756": {
+      "message": "Đọc lướt qua các điểm chính để nắm được tổng quan và nhấp vào những gạch đầu dòng thú vị để chuyển đến nội dung chi tiết."
+   },
+   "1757": {
+      "message": "Tính năng Tóm tắt nội dung bằng AI chỉ dùng được cho một số bài viết nghiên cứu trên Scholar. Các bản tóm tắt này do một chương trình máy tính tạo ra và có thể chứa thông tin không đầy đủ hoặc không chính xác."
+   },
+   "1758": {
+      "message": "Mới"
+   },
+   "1759": {
+      "message": "Không thể Tóm tắt nội dung bằng AI cho tệp PDF này."
+   },
+   "1760": {
+      "message": "Bản tóm tắt này do AI tạo từ một phiên bản khác của tệp PDF này."
+   },
+   "1766": {
+      "message": "Chế độ cài đặt Chrome"
+   },
+   "1768": {
+      "message": "Tự động tìm khi bạn mở tệp PDF trên hầu hết các trang web học thuật"
+   },
+   "535": {
+      "message": "Tìm kiếm trong Scholar"
+   },
+   "551": {
+      "message": "Xóa bài viết"
+   },
+   "59": {
+      "message": "Trích dẫn"
+   },
+   "625": {
+      "message": "Đang tải..."
+   },
+   "626": {
+      "message": "Trang $PAGE_NUMBER$",
+      "placeholders": {
+         "PAGE_NUMBER": {
+            "content": "$1"
+         }
+      }
+   },
+   "64": {
+      "message": "Lưu"
+   },
+   "644": {
+      "message": "Xong"
+   },
+   "649": {
+      "message": "Loại bỏ"
+   },
+   "732": {
+      "message": "Thư viện của tôi"
+   },
+   "920": {
+      "message": "Tìm kiếm"
+   },
+   "924": {
+      "message": "Gắn nhãn là:"
+   },
+   "965": {
+      "message": "Có"
+   },
+   "966": {
+      "message": "Không, cảm ơn"
+   },
+   "chrome_client_3269861059707096562": {
+      "message": "Cho phép truy cập vào các URL của tệp"
+   }
+}

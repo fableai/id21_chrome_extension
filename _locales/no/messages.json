@@ -1,0 +1,445 @@
+{
+   "1010": {
+      "message": "Opprett ny"
+   },
+   "1109": {
+      "message": "Ingen resultater ble funnet for dette søket."
+   },
+   "111": {
+      "message": "Systemet kan ikke utføre handlingen. Prøv på nytt senere."
+   },
+   "1301": {
+      "message": "Innstillinger"
+   },
+   "1343": {
+      "message": "Lagret i Mitt bibliotek"
+   },
+   "1441": {
+      "message": "Forrige"
+   },
+   "1442": {
+      "message": "Neste"
+   },
+   "1462": {
+      "message": "Lukk"
+   },
+   "1463": {
+      "message": "Send inn"
+   },
+   "1484": {
+      "message": "Forrige side"
+   },
+   "1485": {
+      "message": "Neste side"
+   },
+   "1486": {
+      "message": "Zoom ut"
+   },
+   "1487": {
+      "message": "Zoom inn"
+   },
+   "1488": {
+      "message": "Tilpass til høyde"
+   },
+   "1489": {
+      "message": "Tilpass til bredde"
+   },
+   "1490": {
+      "message": "Rotér"
+   },
+   "1491": {
+      "message": "Lagre i biblioteket"
+   },
+   "1492": {
+      "message": "Last ned"
+   },
+   "1493": {
+      "message": "Skriv ut"
+   },
+   "1494": {
+      "message": "Mer"
+   },
+   "1513": {
+      "message": "Miniatyrbilder"
+   },
+   "1514": {
+      "message": "Skjul alle"
+   },
+   "1515": {
+      "message": "Vis alle"
+   },
+   "1542": {
+      "message": "Google Scholar"
+   },
+   "1617": {
+      "message": "Søk på Google"
+   },
+   "1618": {
+      "message": "Google Scholar-biblioteket"
+   },
+   "1620": {
+      "message": "Det oppsto en feil under hentingen av resultatene. Prøv igjen senere."
+   },
+   "1621": {
+      "message": "Søker på Scholar …"
+   },
+   "1623": {
+      "message": "Lagre i Scholar-biblioteket"
+   },
+   "1626": {
+      "message": "Dokumentegenskaper"
+   },
+   "1627": {
+      "message": "Åpne i Chrome PDF-visningsprogrammet"
+   },
+   "1628": {
+      "message": "Vis mer"
+   },
+   "1629": {
+      "message": "Vis mindre"
+   },
+   "1630": {
+      "message": "Logg på"
+   },
+   "1631": {
+      "message": "Lagret i $ANCHOR_BEGIN$Mitt bibliotek$ANCHOR_END$",
+      "placeholders": {
+         "ANCHOR_BEGIN": {
+            "content": "$1"
+         },
+         "ANCHOR_END": {
+            "content": "$2"
+         }
+      }
+   },
+   "1632": {
+      "message": "Lagrer i Mitt bibliotek …"
+   },
+   "1633": {
+      "message": "Fant ikke artikkelen i Scholar."
+   },
+   "1635": {
+      "message": "Filnavn"
+   },
+   "1636": {
+      "message": "Filstørrelse"
+   },
+   "1637": {
+      "message": "Tittel"
+   },
+   "1638": {
+      "message": "Forfatter"
+   },
+   "1639": {
+      "message": "Emne"
+   },
+   "1640": {
+      "message": "Søkeord"
+   },
+   "1641": {
+      "message": "Opprettet"
+   },
+   "1642": {
+      "message": "Endret"
+   },
+   "1643": {
+      "message": "Program"
+   },
+   "1644": {
+      "message": " PDF-produsent"
+   },
+   "1645": {
+      "message": "PDF-versjon"
+   },
+   "1646": {
+      "message": "Antall sider"
+   },
+   "1647": {
+      "message": "Sidestørrelse"
+   },
+   "1648": {
+      "message": "stående"
+   },
+   "1649": {
+      "message": "liggende"
+   },
+   "1650": {
+      "message": "kvadratisk"
+   },
+   "1651": {
+      "message": "Varierer"
+   },
+   "1652": {
+      "message": "$PAGE_WIDTH$ × $PAGE_HEIGHT$ tommer ($PAGE_ORIENTATION$)",
+      "placeholders": {
+         "PAGE_HEIGHT": {
+            "content": "$1"
+         },
+         "PAGE_ORIENTATION": {
+            "content": "$2"
+         },
+         "PAGE_WIDTH": {
+            "content": "$3"
+         }
+      }
+   },
+   "1653": {
+      "message": "$PAGE_WIDTH$ × $PAGE_HEIGHT$ mm ($PAGE_ORIENTATION$)",
+      "placeholders": {
+         "PAGE_HEIGHT": {
+            "content": "$1"
+         },
+         "PAGE_ORIENTATION": {
+            "content": "$2"
+         },
+         "PAGE_WIDTH": {
+            "content": "$3"
+         }
+      }
+   },
+   "1654": {
+      "message": "Rask nettvisning"
+   },
+   "1655": {
+      "message": "Ja"
+   },
+   "1656": {
+      "message": "Nei"
+   },
+   "1660": {
+      "message": "$PAGE_WIDTH$ x $PAGE_HEIGHT$ tommer ($PAGE_SIZE_NAME$, $PAGE_ORIENTATION$)",
+      "placeholders": {
+         "PAGE_HEIGHT": {
+            "content": "$1"
+         },
+         "PAGE_ORIENTATION": {
+            "content": "$2"
+         },
+         "PAGE_SIZE_NAME": {
+            "content": "$3"
+         },
+         "PAGE_WIDTH": {
+            "content": "$4"
+         }
+      }
+   },
+   "1661": {
+      "message": "$PAGE_WIDTH$ × $PAGE_HEIGHT$ mm ($PAGE_SIZE_NAME$, $PAGE_ORIENTATION$)",
+      "placeholders": {
+         "PAGE_HEIGHT": {
+            "content": "$1"
+         },
+         "PAGE_ORIENTATION": {
+            "content": "$2"
+         },
+         "PAGE_SIZE_NAME": {
+            "content": "$3"
+         },
+         "PAGE_WIDTH": {
+            "content": "$4"
+         }
+      }
+   },
+   "1662": {
+      "message": "Brev"
+   },
+   "1663": {
+      "message": "Juridisk"
+   },
+   "1664": {
+      "message": "Tabloid"
+   },
+   "1668": {
+      "message": "Kunne ikke laste inn PDF-dokumentet."
+   },
+   "1669": {
+      "message": "Last inn på nytt"
+   },
+   "1670": {
+      "message": "Feil"
+   },
+   "1673": {
+      "message": "Passord er obligatorisk"
+   },
+   "1674": {
+      "message": "Dette dokumentet er passordbeskyttet. Skriv inn et passord."
+   },
+   "1675": {
+      "message": "Skriv ut PDF-dokumentet med Skriv ut-knappen på verktøylinjen."
+   },
+   "1676": {
+      "message": "Feil passord."
+   },
+   "1677": {
+      "message": "Skjemautfylling støttes foreløpig ikke i Scholar PDF Reader."
+   },
+   "1678": {
+      "message": "Google Scholar PDF Reader"
+   },
+   "1698": {
+      "message": "Disposisjon"
+   },
+   "1702": {
+      "message": "Aktiver Scholar Reader"
+   },
+   "1703": {
+      "message": "For å lese lokale PDF-filer med Google Scholar Reader må du slå på tilgang til filnettadresser i innstillingene og så laste inn PDF-filen på nytt."
+   },
+   "1704": {
+      "message": "Åpne innstillingene"
+   },
+   "1707": {
+      "message": "Visningsmodus"
+   },
+   "1711": {
+      "message": "Fullskjerm"
+   },
+   "1712": {
+      "message": "Lys modus"
+   },
+   "1713": {
+      "message": "Mørk modus"
+   },
+   "1714": {
+      "message": "Nattmodus"
+   },
+   "1715": {
+      "message": "Se i Referanser"
+   },
+   "1716": {
+      "message": "For å slå på lagring i Scholar-biblioteket ditt, vis PDF-filen i fullskjerm."
+   },
+   "1717": {
+      "message": "Vis"
+   },
+   "1718": {
+      "message": "Ikke nå"
+   },
+   "1723": {
+      "message": "Åpne PDF-filen i Chrome-visningsprogrammet for å få mulighet til å skrive den ut."
+   },
+   "1724": {
+      "message": "Åpne"
+   },
+   "1726": {
+      "message": "Les artikler raskere: følg referanser, skumles utkast, hopp til figurer, siter og lagre."
+   },
+   "1732": {
+      "message": "Enhetsmodus"
+   },
+   "1734": {
+      "message": "Rapporter et problem"
+   },
+   "1741": {
+      "message": "Deler"
+   },
+   "1742": {
+      "message": "AI-oversikt"
+   },
+   "1744": {
+      "message": "Innstillinger for AI-oversikt"
+   },
+   "1745": {
+      "message": "Be Scholar om en AI-oversikt:"
+   },
+   "1746": {
+      "message": "Kun når du klikker på $ICON$",
+      "placeholders": {
+         "ICON": {
+            "content": "$1"
+         }
+      }
+   },
+   "1748": {
+      "message": "Automatisk når du åpner PDF-filer"
+   },
+   "1749": {
+      "message": "AI-oversikter er tilgjengelige kun for utvalgte artikler"
+   },
+   "1750": {
+      "message": "Vil du slå på AI-oversikter for alle PDF-filer?"
+   },
+   "1751": {
+      "message": "Reader prøver å finne PDF-filen i Scholar for å vise en oversikt"
+   },
+   "1752": {
+      "message": "Om AI-oversikter"
+   },
+   "1753": {
+      "message": "Hovedpunkter fra delene i artikkelen"
+   },
+   "1754": {
+      "message": "AI-oversikter viser deg hovedpunktene fra store deler av dokumentet."
+   },
+   "1755": {
+      "message": "Skumles oversikten eller gå rett til detaljene"
+   },
+   "1756": {
+      "message": "Se gjennom hovedpunktene for å få oversikt raskt, og klikk på interessante punkter for å se detaljer."
+   },
+   "1757": {
+      "message": "AI-oversikter er tilgjengelige kun for utvalgte forskningsartikler i Scholar. De genereres av et dataprogram og kan inneholde ufullstendig eller unøyaktig informasjon."
+   },
+   "1758": {
+      "message": "Ny"
+   },
+   "1759": {
+      "message": "AI-oversikt er ikke tilgjengelig for denne PDF-filen."
+   },
+   "1760": {
+      "message": "AI-oversikten ble generert med en annen versjon av denne PDF-filen."
+   },
+   "1766": {
+      "message": "Chrome-innstillinger"
+   },
+   "1768": {
+      "message": "Automatisk når du åpner PDF-filer på de fleste akademiske nettsteder"
+   },
+   "535": {
+      "message": "Søk i Google Scholar"
+   },
+   "551": {
+      "message": "Fjern artikkelen"
+   },
+   "59": {
+      "message": "Referanse"
+   },
+   "625": {
+      "message": "Laster inn ..."
+   },
+   "626": {
+      "message": "Side $PAGE_NUMBER$",
+      "placeholders": {
+         "PAGE_NUMBER": {
+            "content": "$1"
+         }
+      }
+   },
+   "64": {
+      "message": "Lagre"
+   },
+   "644": {
+      "message": "Ferdig"
+   },
+   "649": {
+      "message": "Avvis"
+   },
+   "732": {
+      "message": "Mitt bibliotek"
+   },
+   "920": {
+      "message": "Søk"
+   },
+   "924": {
+      "message": "Merk som:"
+   },
+   "965": {
+      "message": "Ja, takk"
+   },
+   "966": {
+      "message": "Nei takk"
+   },
+   "chrome_client_3269861059707096562": {
+      "message": "Tillat tilgang til filnettadresser"
+   }
+}

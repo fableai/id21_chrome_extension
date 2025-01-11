@@ -1,0 +1,445 @@
+{
+   "1010": {
+      "message": "Crear"
+   },
+   "1109": {
+      "message": "No hay resultados para esta búsqueda."
+   },
+   "111": {
+      "message": "El sistema no puede realizar la operación en estos momentos. Inténtalo de nuevo más tarde."
+   },
+   "1301": {
+      "message": "Ajustes"
+   },
+   "1343": {
+      "message": "Guardado en Mi biblioteca"
+   },
+   "1441": {
+      "message": "Anterior"
+   },
+   "1442": {
+      "message": "Siguiente"
+   },
+   "1462": {
+      "message": "Cerrar"
+   },
+   "1463": {
+      "message": "Enviar"
+   },
+   "1484": {
+      "message": "Página anterior"
+   },
+   "1485": {
+      "message": "Página siguiente"
+   },
+   "1486": {
+      "message": "Reducir"
+   },
+   "1487": {
+      "message": "Aumentar"
+   },
+   "1488": {
+      "message": "Ajustar a la altura"
+   },
+   "1489": {
+      "message": "Ajustar al ancho"
+   },
+   "1490": {
+      "message": "Girar"
+   },
+   "1491": {
+      "message": "Guardar en mi biblioteca"
+   },
+   "1492": {
+      "message": "Descargar"
+   },
+   "1493": {
+      "message": "Imprimir"
+   },
+   "1494": {
+      "message": "Más"
+   },
+   "1513": {
+      "message": "Miniaturas"
+   },
+   "1514": {
+      "message": "Ocultar todo"
+   },
+   "1515": {
+      "message": "Mostrar todo"
+   },
+   "1542": {
+      "message": "Google Académico"
+   },
+   "1617": {
+      "message": "Buscar en Google"
+   },
+   "1618": {
+      "message": "Biblioteca de Google Académico"
+   },
+   "1620": {
+      "message": "No se han podido obtener los resultados. Inténtalo de nuevo más tarde."
+   },
+   "1621": {
+      "message": "Buscando en Académico..."
+   },
+   "1623": {
+      "message": "Guardar en la biblioteca de Académico"
+   },
+   "1626": {
+      "message": "Propiedades del documento"
+   },
+   "1627": {
+      "message": "Abrir en el visor de Chrome"
+   },
+   "1628": {
+      "message": "Mostrar más"
+   },
+   "1629": {
+      "message": "Mostrar menos"
+   },
+   "1630": {
+      "message": "Iniciar sesión"
+   },
+   "1631": {
+      "message": "Guardado en $ANCHOR_BEGIN$Mi biblioteca$ANCHOR_END$",
+      "placeholders": {
+         "ANCHOR_BEGIN": {
+            "content": "$1"
+         },
+         "ANCHOR_END": {
+            "content": "$2"
+         }
+      }
+   },
+   "1632": {
+      "message": "Guardando en Mi biblioteca..."
+   },
+   "1633": {
+      "message": "No se ha encontrado el artículo en Académico."
+   },
+   "1635": {
+      "message": "Nombre"
+   },
+   "1636": {
+      "message": "Tamaño de archivo"
+   },
+   "1637": {
+      "message": "Título"
+   },
+   "1638": {
+      "message": "Autor"
+   },
+   "1639": {
+      "message": "Asunto"
+   },
+   "1640": {
+      "message": "Palabras clave"
+   },
+   "1641": {
+      "message": "Creado"
+   },
+   "1642": {
+      "message": "Modificado"
+   },
+   "1643": {
+      "message": "Aplicación"
+   },
+   "1644": {
+      "message": " Proveedor de PDF"
+   },
+   "1645": {
+      "message": "Versión de PDF"
+   },
+   "1646": {
+      "message": "Número de páginas"
+   },
+   "1647": {
+      "message": "Tamaño de página"
+   },
+   "1648": {
+      "message": "vertical"
+   },
+   "1649": {
+      "message": "horizontal"
+   },
+   "1650": {
+      "message": "cuadrada"
+   },
+   "1651": {
+      "message": "Varía"
+   },
+   "1652": {
+      "message": "$PAGE_WIDTH$ × $PAGE_HEIGHT$ pulgadas ($PAGE_ORIENTATION$)",
+      "placeholders": {
+         "PAGE_HEIGHT": {
+            "content": "$1"
+         },
+         "PAGE_ORIENTATION": {
+            "content": "$2"
+         },
+         "PAGE_WIDTH": {
+            "content": "$3"
+         }
+      }
+   },
+   "1653": {
+      "message": "$PAGE_WIDTH$ × $PAGE_HEIGHT$ mm ($PAGE_ORIENTATION$)",
+      "placeholders": {
+         "PAGE_HEIGHT": {
+            "content": "$1"
+         },
+         "PAGE_ORIENTATION": {
+            "content": "$2"
+         },
+         "PAGE_WIDTH": {
+            "content": "$3"
+         }
+      }
+   },
+   "1654": {
+      "message": "Vista web rápida"
+   },
+   "1655": {
+      "message": "Sí"
+   },
+   "1656": {
+      "message": "No"
+   },
+   "1660": {
+      "message": "$PAGE_WIDTH$ × $PAGE_HEIGHT$ pulgadas ($PAGE_SIZE_NAME$, $PAGE_ORIENTATION$)",
+      "placeholders": {
+         "PAGE_HEIGHT": {
+            "content": "$1"
+         },
+         "PAGE_ORIENTATION": {
+            "content": "$2"
+         },
+         "PAGE_SIZE_NAME": {
+            "content": "$3"
+         },
+         "PAGE_WIDTH": {
+            "content": "$4"
+         }
+      }
+   },
+   "1661": {
+      "message": "$PAGE_WIDTH$ × $PAGE_HEIGHT$ mm ($PAGE_SIZE_NAME$, $PAGE_ORIENTATION$)",
+      "placeholders": {
+         "PAGE_HEIGHT": {
+            "content": "$1"
+         },
+         "PAGE_ORIENTATION": {
+            "content": "$2"
+         },
+         "PAGE_SIZE_NAME": {
+            "content": "$3"
+         },
+         "PAGE_WIDTH": {
+            "content": "$4"
+         }
+      }
+   },
+   "1662": {
+      "message": "Letter"
+   },
+   "1663": {
+      "message": "Legal"
+   },
+   "1664": {
+      "message": "Tabloide"
+   },
+   "1668": {
+      "message": "No se ha podido cargar el documento PDF."
+   },
+   "1669": {
+      "message": "Volver a cargar"
+   },
+   "1670": {
+      "message": "Error"
+   },
+   "1673": {
+      "message": "Contraseña obligatoria"
+   },
+   "1674": {
+      "message": "Este documento está protegido por contraseña. Introduce una contraseña."
+   },
+   "1675": {
+      "message": "Para imprimir el documento PDF, utiliza el botón Imprimir de la barra de herramientas."
+   },
+   "1676": {
+      "message": "Contraseña incorrecta."
+   },
+   "1677": {
+      "message": "Aún no se puede rellenar formularios en el lector de PDFs de Académico."
+   },
+   "1678": {
+      "message": "Lector de PDFs de Google Académico"
+   },
+   "1698": {
+      "message": "Esquema"
+   },
+   "1702": {
+      "message": "Habilita el lector de Académico"
+   },
+   "1703": {
+      "message": "Para leer PDFs locales con el lector de Google Académico, habilita el acceso a las URLs de los archivos en la configuración y vuelve a cargar el PDF."
+   },
+   "1704": {
+      "message": "Abrir configuración"
+   },
+   "1707": {
+      "message": "Modo de visualización"
+   },
+   "1711": {
+      "message": "Pantalla completa"
+   },
+   "1712": {
+      "message": "Modo Claro"
+   },
+   "1713": {
+      "message": "Modo Oscuro"
+   },
+   "1714": {
+      "message": "Modo Noche"
+   },
+   "1715": {
+      "message": "Ver en Referencias"
+   },
+   "1716": {
+      "message": "Despliega el PDF para que se muestre a pantalla completa si quieres habilitar la opción de guardarlo en la biblioteca de Académico."
+   },
+   "1717": {
+      "message": "Desplegar"
+   },
+   "1718": {
+      "message": "Ahora no"
+   },
+   "1723": {
+      "message": "Para habilitar la impresión, abre el PDF en el visor de Chrome."
+   },
+   "1724": {
+      "message": "Abrir"
+   },
+   "1726": {
+      "message": "Mejora la forma de leer las publicaciones: sigue las referencias, consulta los esquemas, ve a las figuras, cita y guarda."
+   },
+   "1732": {
+      "message": "Modo Dispositivo"
+   },
+   "1734": {
+      "message": "Notificar un problema"
+   },
+   "1741": {
+      "message": "Secciones"
+   },
+   "1742": {
+      "message": "Esquema de IA"
+   },
+   "1744": {
+      "message": "Configuración de Esquema de IA"
+   },
+   "1745": {
+      "message": "Solicita un esquema de IA de Académico:"
+   },
+   "1746": {
+      "message": "Solo al hacer clic en $ICON$",
+      "placeholders": {
+         "ICON": {
+            "content": "$1"
+         }
+      }
+   },
+   "1748": {
+      "message": "Automáticamente al abrir cualquier PDF"
+   },
+   "1749": {
+      "message": "Los esquemas de IA solo están disponibles para artículos seleccionados"
+   },
+   "1750": {
+      "message": "¿Habilitar Esquema de IA para todos los PDFs?"
+   },
+   "1751": {
+      "message": "Para mostrar un esquema, el Lector intentará encontrar el PDF en Académico"
+   },
+   "1752": {
+      "message": "Acerca de Esquema de IA"
+   },
+   "1753": {
+      "message": "Puntos clave de las secciones del artículo"
+   },
+   "1754": {
+      "message": "Los esquemas de IA presentan los puntos clave de las secciones principales del documento."
+   },
+   "1755": {
+      "message": "Echa un vistazo al esquema o consulta los detalles"
+   },
+   "1756": {
+      "message": "Echa un vistazo a los puntos clave para tener una idea general y haz clic en los que te interesen para consultar directamente los detalles."
+   },
+   "1757": {
+      "message": "Los esquemas de IA solo están disponibles para algunos artículos de investigación en Académico. Los genera un programa informático y pueden contener información incompleta o imprecisa."
+   },
+   "1758": {
+      "message": "Nuevo"
+   },
+   "1759": {
+      "message": "Esquema de IA no está disponible para este PDF."
+   },
+   "1760": {
+      "message": "El esquema de IA se ha generado con una versión distinta de este PDF."
+   },
+   "1766": {
+      "message": "Configuración de Chrome"
+   },
+   "1768": {
+      "message": "Automáticamente al abrir un PDF en la mayoría de los sitios académicos"
+   },
+   "535": {
+      "message": "Buscar en Google Académico"
+   },
+   "551": {
+      "message": "Eliminar artículo"
+   },
+   "59": {
+      "message": "Citar"
+   },
+   "625": {
+      "message": "Cargando..."
+   },
+   "626": {
+      "message": "Página $PAGE_NUMBER$",
+      "placeholders": {
+         "PAGE_NUMBER": {
+            "content": "$1"
+         }
+      }
+   },
+   "64": {
+      "message": "Guardar"
+   },
+   "644": {
+      "message": "Hecho"
+   },
+   "649": {
+      "message": "Cerrar"
+   },
+   "732": {
+      "message": "Mi biblioteca"
+   },
+   "920": {
+      "message": "Buscar"
+   },
+   "924": {
+      "message": "Etiquetar como:"
+   },
+   "965": {
+      "message": "Sí"
+   },
+   "966": {
+      "message": "No, gracias"
+   },
+   "chrome_client_3269861059707096562": {
+      "message": "Permitir acceso a URL de archivo"
+   }
+}
