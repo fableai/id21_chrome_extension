@@ -4,8 +4,8 @@
   "description": "Chrome extension for PDF viewing and processing capabilities",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lint": "eslint . --ext .js",
-    "lint:fix": "eslint . --ext .js --fix"
+    "lint": "eslint \"**/*.js\" \"**/*-compiled.js\" --debug",
+    "lint:fix": "eslint \"**/*.js\" \"**/*-compiled.js\" --fix"
   },
   "repository": {
     "type": "git",
